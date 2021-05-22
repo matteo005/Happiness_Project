@@ -41,16 +41,17 @@ NOTE: Both files assume that the input and output csv file path is located withi
 # **Navigating Tamara's Notebook:** 
 
 ## Questions: 
-
+Is there anything that proves that certain regions have happier countries?
 
 ## Data: 
-
+Kaggle's World Happiness Report 2015-2021 - [Kaggle](https://www.kaggle.com/mathurinache/world-happiness-report-20152021)
 
 ## Tools: 
-
+* Figures built using matplotlib
+* Pandas using groupby
 
 ## General Conclusions
-
+We can visually see by the line graph that there are certain regions in the world that have happier countries
 
 # **Navigating Samson's Notebook:** 
 
