@@ -3,7 +3,7 @@
 # **Navigating Enkhsanaa's Notebook:** 
 
 ## Questions: 
-
+Does higher GDP corelate to higher happiness index in countries ? 
 
 ## Data: 
 
