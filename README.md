@@ -3,14 +3,18 @@
 # **Navigating Enkhsanaa's Notebook:** 
 
 ## Questions: 
-
+Does higher GDP corelate to higher happiness index in countries ? 
 
 ## Data: 
-
+Kaggle's World Happiness Report 2015-2021 - [Kaggle](https://www.kaggle.com/mathurinache/world-happiness-report-20152021)
 
 ## Tools: 
-
-
+ - Git Bash
+ - github
+ - Python
+ - pandas
+ - matplotlib
+ 
 ## General Conclusions
 
 
