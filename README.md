@@ -1,4 +1,4 @@
-## Project 1: "All work and no play makes for unhappy nations"
+## Project 1: "What makes for a HAPPY country!"
 
 # **Navigating Enkhsanaa's Notebook:** 
 
