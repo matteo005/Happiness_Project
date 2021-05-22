@@ -20,7 +20,7 @@
 Does higher generosity correlate to happier countries? 
 
 ## Data: 
-Kaggle's World Happiness Report 2015-2021 - [GitHub](www.kaggle.com/mathurinache/world-happiness-report-20152021)
+Kaggle's World Happiness Report 2015-2021 - [Kaggle](www.kaggle.com/mathurinache/world-happiness-report-20152021)
 
 ## File explanation:
 1. MB_Data_Code.ipynb is the initial data cleaning notebook which takes raw input and filtered to selected nation and year. Outputs cleaned data.
