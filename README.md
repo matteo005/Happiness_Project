@@ -59,6 +59,7 @@ We can visually see by the line graph that there are certain regions in the worl
 
 
 ## Data: 
+![image](https://user-images.githubusercontent.com/39179454/119244990-b6dbe780-bb43-11eb-8d23-d15ccb6f5622.png)
 
 
 ## Tools: 
