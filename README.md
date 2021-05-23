@@ -55,17 +55,37 @@ We can visually see by the line graph that there are certain regions in the worl
 
 # **Navigating Samson's Notebook:** 
 
-## Questions: 
+## Questions: Are countries under more corruption less happy?
 
 
 ## Data: 
-![image](https://user-images.githubusercontent.com/39179454/119244990-b6dbe780-bb43-11eb-8d23-d15ccb6f5622.png)
+Kaggle's World Happiness Report 2015-2021 - [Kaggle](https://www.kaggle.com/mathurinache/world-happiness-report-20152021)
 
+![image](https://user-images.githubusercontent.com/39179454/119251243-b0656400-bb73-11eb-85dc-c75af4913c91.png)
+![image](https://user-images.githubusercontent.com/39179454/119251249-b8250880-bb73-11eb-9518-20ec3f2a9aaf.png)
+![image](https://user-images.githubusercontent.com/39179454/119251256-c07d4380-bb73-11eb-8786-40fea55a43d6.png)
 
 ## Tools: 
-
+Pandas
+Numpy
+Matpotlib
+Scipy
 
 ## General Conclusions
+If we look at corruption vs happiness in 2019 we can see that countries actually do get happier as corruption increases. However, this is inverted starting the next year in 2020. There are many reasons why the data could have changed but a major factor that comes into play is Covid-19. If we look at the year 2019 we can say that the citizens of the country don't care about government intervention which explains why the data is low with medium happiness. However, once the pandemic hit the populace would now turn to the government for assistance in paying bills or providing for their families. If they find that the government is lacking in providing adequit support the populace can find that there is corruption within the government. 
+
+Looking at the figure of average corruption and average happiness we can see its similar to years 2019 and below. There is a very slight correlation in corruption affecting happiness but it is not significant. This can also be seen when taking a Ttest which results in a pvalue of 4.6358552763512926e-95. The value is below pvalue of .05 so we reject the null.
+
+![image](https://user-images.githubusercontent.com/39179454/119251521-f242da00-bb74-11eb-9041-8b593d5dbd43.png)
+Freedom = Ttest_indResult(statistic=-20.06094743182062, pvalue=2.781555284424539e-44)
+
+![image](https://user-images.githubusercontent.com/39179454/119251557-21594b80-bb75-11eb-81d1-f636e869ef37.png)
+Generosity = Ttest_indResult(statistic=9.278119830516218, pvalue=1.431385473016657e-16)
+
+![image](https://user-images.githubusercontent.com/39179454/119251543-11da0280-bb75-11eb-8bfb-de7e896cbed9.png)
+GDP = Ttest_indResult(statistic=-19.48635233084674, pvalue=2.785782607905848e-41)
+
+I also did further analysis in the relationship between corruption and freedom, generosity, and gdp. Looking at each of the independant values from the graph, we can see that there is a larger concetration of clusters in gdp which tells us that of all the values there is a higher correlation between correlation and gdp. The pvalues for each individual t-test also support the data.
 
 
 # **Navigating Andy's Notebook:** 
