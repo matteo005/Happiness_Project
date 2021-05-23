@@ -77,12 +77,15 @@ If we look at corruption vs happiness in 2019 we can see that countries actually
 Looking at the figure of average corruption and average happiness we can see its similar to years 2019 and below. There is a very slight correlation in corruption affecting happiness but it is not significant. This can also be seen when taking a Ttest which results in a pvalue of 4.6358552763512926e-95. The value is below pvalue of .05 so we reject the null.
 
 ![image](https://user-images.githubusercontent.com/39179454/119251521-f242da00-bb74-11eb-9041-8b593d5dbd43.png)
+
 Freedom = Ttest_indResult(statistic=-20.06094743182062, pvalue=2.781555284424539e-44)
 
 ![image](https://user-images.githubusercontent.com/39179454/119251557-21594b80-bb75-11eb-81d1-f636e869ef37.png)
+
 Generosity = Ttest_indResult(statistic=9.278119830516218, pvalue=1.431385473016657e-16)
 
 ![image](https://user-images.githubusercontent.com/39179454/119251543-11da0280-bb75-11eb-8bfb-de7e896cbed9.png)
+
 GDP = Ttest_indResult(statistic=-19.48635233084674, pvalue=2.785782607905848e-41)
 
 I also did further analysis in the relationship between corruption and freedom, generosity, and gdp. Looking at each of the independant values from the graph, we can see that there is a larger concetration of clusters in gdp which tells us that of all the values there is a higher correlation between correlation and gdp. The pvalues for each individual t-test also support the data.
