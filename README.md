@@ -16,8 +16,8 @@ Kaggle's World Happiness Report 2015-2021 - [Kaggle](https://www.kaggle.com/math
 4. Created some visualization to understand and to grasp general picture about data by different variables, criteria, and time. 
 5. Develop Ho (null hypothesis) and Ha (alternative hypothesis)
       Ho: Higher GDP and Higher Happiness index do
-7. Calculated data that is associated with different regions and countries by associated happiness index and GDP. , regions, GDP, and Happiness index in order to answer question was asked.
-8. Create soem visual
+7. Calculated data that is associated  with happiness index and GDP in different countries and regions to answer questions were asked. 
+8. Final results of study. 
 
 ## Tools: 
  - Git Bash
