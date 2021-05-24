@@ -16,16 +16,17 @@ Kaggle's World Happiness Report 2015-2021 - [Kaggle](https://www.kaggle.com/math
         <img width="437" alt="Screenshot 2021-05-24 135358" src="https://user-images.githubusercontent.com/67448948/119387939-a3da2c00-bc97-11eb-9fc9-a861ce5ae4dc.png"> 
        <img width="468" alt="Screenshot 2021-05-24 142007" src="https://user-images.githubusercontent.com/67448948/119392354-a2abfd80-bc9d-11eb-8f87-823329d37007.png">
        <img width="692" alt="Screenshot 2021-05-24 142714" src="https://user-images.githubusercontent.com/67448948/119392466-c96a3400-bc9d-11eb-920b-643385759f46.png">
-3. Develop Ho (null hypothesis) and Ha (alternative hypothesis)
+4. Develop Ho (null hypothesis) and Ha (alternative hypothesis)
         
-4. Calculated data that is associated  with happiness index and GDP in different countries and regions to answer questions were asked.
+5. Calculated data that is associated  with happiness index and GDP in different countries and regions to answer questions were asked.
     Test hypothesis by using ANOVA Test. 
      ![image](https://user-images.githubusercontent.com/67448948/119391835-e05c5680-bc9c-11eb-9da4-f472e95e4d17.png)
-5. determined p_value to test against null hypothesis. 
-5. Produced scatter plot for mean of happiness by each country,a nd linear regression analysis.
+ determined p_value to test against null hypothesis. 
+6. Produced scatter plot for mean of happiness by each country,a nd linear regression analysis.
 
-6. Calculated pearson r value to define existence of relationship. 
-7. 
+<img width="827" alt="Screenshot 2021-05-24 145010" src="https://user-images.githubusercontent.com/67448948/119393927-9a54c200-bc9f-11eb-8494-143d7e43d241.png">
+7. Calculated pearson r value to define existence of relationship. 
+ 
 8. Final results of study. 
 
 ## Tools: 
