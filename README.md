@@ -4,7 +4,7 @@
 
 ## Questions: 
 Does higher GDP(Gross Domestic Product) correlate to higher happiness index in countries?
-In order to answer above questions following questions were asked and followed up accordingly.
+In order to answer this question following questions were asked and followed up accordingly.
     - How to find out the relationships? 
     - Is there even relationship exist there? 
     - How to tackle problem and what approach should be taken? 
