@@ -5,9 +5,9 @@
 ## Questions: 
 1. Does higher GDP (Gross Domestic Product) correlate to higher happiness index in countries?
 In order to answer this question following questions were asked and followed up accordingly.
-    1.a) How to find out the relationships? (Develop hypothesis and test it using some statistical tests)
-    1.b) Is there even relationship exist between these two variables? (do some tests against hypothesis)
-    1.c) How to tackle problem and what approach should be taken? (Explore with data, do calculation with associated visualization to answer questions based on data. Finally, show the result of such a relation relation exist or not exist between GDP and Happiness index)
+    1.a) How to find out the relationships between two variables? (Develop hypothesis and investigate)
+    1.b) Is there even relationship exist between these two variables? (do statistical test against hypothesis)
+    1.c) How to tackle the problem and what approach should be taken so solve the problem at hand? (Explore with data, do calculation with associated visualization to answer the question based on data. Finally, show the result of such a relation exist or not exist between GDP and Happiness index)
 ## Data: 
 1. Collected data from: 
 Kaggle's World Happiness Report 2015-2021 - [Kaggle](https://www.kaggle.com/mathurinache/world-happiness-report-20152021)
@@ -25,15 +25,20 @@ Kaggle's World Happiness Report 2015-2021 - [Kaggle](https://www.kaggle.com/math
      ![image](https://user-images.githubusercontent.com/67448948/119391835-e05c5680-bc9c-11eb-9da4-f472e95e4d17.png)
  determined p_value to test against null hypothesis.
  (statistic=56.670624249813926, pvalue=1.1367658484570351e-27)
-   0 < (p_value pvalue = 1.1367658484570351e-27) << 0.05
-6. Produced scatter plot for mean of happiness by each country and linear regression analysis.
+ Test result shown below is reject null hypothesis, therfore, it is supporting my Ha. 
+   0 < (p_value pvalue = 1.1367658484570351e-27) << 0.05 
+6. Produced scatter plot for mean of happiness by each country and did linear regression analysis.
 
     <img width="827" alt="Screenshot 2021-05-24 145010" src="https://user-images.githubusercontent.com/67448948/119393927-9a54c200-bc9f-11eb-8494-143d7e43d241.png">
 7. Calculated pearson r value to define existence of relationship. 
     Pearson r value is 
     0 < (pearson_r_value =  5.524167874543727e-35) << 0.03 
-    
+    Relation exist positively weak. 
+    Also, linear regression slope is: 
+        0 < (m = 0.02) << 1
+    This shows that positive weak realtione xist between increased GDP and higher happiness index. 
 8. Final results of study. 
+    
 
 ## Tools: 
  - Git Bash
