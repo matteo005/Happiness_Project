@@ -19,6 +19,7 @@ Kaggle's World Happiness Report 2015-2021 - [Kaggle](https://www.kaggle.com/math
 3. Develop Ho (null hypothesis) and Ha (alternative hypothesis)
       Ho: Higher GDP and Higher Happiness index do
 4. Calculated data that is associated  with happiness index and GDP in different countries and regions to answer questions were asked.
+    Test hypothesis by using AOVA Test. 
      ![image](https://user-images.githubusercontent.com/67448948/119391835-e05c5680-bc9c-11eb-9da4-f472e95e4d17.png)
 5. Final results of study. 
 
