@@ -14,9 +14,8 @@ Kaggle's World Happiness Report 2015-2021 - [Kaggle](https://www.kaggle.com/math
 2. Extracted data and cleaned for analysis.
 3. Created some visualization to understand and to grasp general picture about data by different variables, criteria, and time. 
         <img width="437" alt="Screenshot 2021-05-24 135358" src="https://user-images.githubusercontent.com/67448948/119387939-a3da2c00-bc97-11eb-9fc9-a861ce5ae4dc.png"> 
-        <img width="692" alt="Screenshot 2021-05-24 142714" src="https://user-images.githubusercontent.com/67448948/119392466-c96a3400-bc9d-11eb-920b-643385759f46.png">
        <img width="468" alt="Screenshot 2021-05-24 142007" src="https://user-images.githubusercontent.com/67448948/119392354-a2abfd80-bc9d-11eb-8f87-823329d37007.png">
-
+       <img width="692" alt="Screenshot 2021-05-24 142714" src="https://user-images.githubusercontent.com/67448948/119392466-c96a3400-bc9d-11eb-920b-643385759f46.png">
 3. Develop Ho (null hypothesis) and Ha (alternative hypothesis)
       Ho: Higher GDP and Higher Happiness index do
 4. Calculated data that is associated  with happiness index and GDP in different countries and regions to answer questions were asked.
