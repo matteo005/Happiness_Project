@@ -52,7 +52,7 @@ Kaggle's World Happiness Report 2015-2021 - [Kaggle](https://www.kaggle.com/math
  - Numpy
  
 ## General Conclusions 
- Original my intuitive assumption was that Higher GDP will have a higher impact on Higher Happiness index in countries. However, the study results shows that relationship between these two variables are suprrisingly weak. Final conclusion ism GDP correaltes to Happiness index positively and weakly. 
+ Original intuitive assumption was that Higher GDP will have a higher impact on Higher Happiness index in countries. However, the study results shows that relationship between these two variables are suprrisingly weak. Final conclusion ism GDP correaltes to Happiness index positively and weakly. 
 
 # **Navigating Matteo's Notebook:**
 
