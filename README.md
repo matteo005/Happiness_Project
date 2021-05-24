@@ -4,10 +4,10 @@
 
 ## Questions: 
 Does higher GDP(Gross Domestic Product) correlate to higher happiness index in countries?
-    - How to find out the relationshipns? 
+In order to answer above questions following questions were asked and followed up accordingly.
+    - How to find out the relationships? 
     - Is there even relationship exist there? 
-    - What approach should be taken? 
-
+    - How to tackle problem and what approach should be taken? 
 ## Data: 
 1. Collected data from: 
 Kaggle's World Happiness Report 2015-2021 - [Kaggle](https://www.kaggle.com/mathurinache/world-happiness-report-20152021)
@@ -16,17 +16,23 @@ Kaggle's World Happiness Report 2015-2021 - [Kaggle](https://www.kaggle.com/math
         <img width="437" alt="Screenshot 2021-05-24 135358" src="https://user-images.githubusercontent.com/67448948/119387939-a3da2c00-bc97-11eb-9fc9-a861ce5ae4dc.png"> 
        <img width="468" alt="Screenshot 2021-05-24 142007" src="https://user-images.githubusercontent.com/67448948/119392354-a2abfd80-bc9d-11eb-8f87-823329d37007.png">
        <img width="692" alt="Screenshot 2021-05-24 142714" src="https://user-images.githubusercontent.com/67448948/119392466-c96a3400-bc9d-11eb-920b-643385759f46.png">
-4. Develop Ho (null hypothesis) and Ha (alternative hypothesis)
-        
-5. Calculated data that is associated  with happiness index and GDP in different countries and regions to answer questions were asked.
+4. Develop Ho (null hypothesis) and Ha (alternative hypothesis) to test existence of relationship. 
+    Ho: Relationship does not exist between higher GDP and higher Happiness index. 
+    Ha: Relationship exist between higher GDP and higher Happiness index. 
+    
+5. Calculated data that is associated  with happiness index and GDP in different countries and regions to answer questions are asked above.
     Test hypothesis by using ANOVA Test. 
      ![image](https://user-images.githubusercontent.com/67448948/119391835-e05c5680-bc9c-11eb-9da4-f472e95e4d17.png)
- determined p_value to test against null hypothesis. 
+ determined p_value to test against null hypothesis.
+ (statistic=56.670624249813926, pvalue=1.1367658484570351e-27)
+   0 < (p_value pvalue = 1.1367658484570351e-27) << 0.05
 6. Produced scatter plot for mean of happiness by each country and linear regression analysis.
 
-<img width="827" alt="Screenshot 2021-05-24 145010" src="https://user-images.githubusercontent.com/67448948/119393927-9a54c200-bc9f-11eb-8494-143d7e43d241.png">
+    <img width="827" alt="Screenshot 2021-05-24 145010" src="https://user-images.githubusercontent.com/67448948/119393927-9a54c200-bc9f-11eb-8494-143d7e43d241.png">
 7. Calculated pearson r value to define existence of relationship. 
- 
+    Pearson r value is 
+    0 < (pearson_r_value =  5.524167874543727e-35) << 0.03 
+    
 8. Final results of study. 
 
 ## Tools: 
