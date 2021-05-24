@@ -53,7 +53,10 @@ Kaggle's World Happiness Report 2015-2021 - [Kaggle](https://www.kaggle.com/math
  
 ## General Conclusions 
  Original my intuitive assumption was that Higher GDP will have a higher impact on Higher Happiness index in countries. However, the study results shows that relationship between these two variables are suprrisingly weak. Final conclusion ism GDP correaltes to Happiness index positively and weakly. 
-
+ Further, while working on the project, some countries happiness index decreased over time oddly against main trend that was occuring such as the happiness index over time were increasing most of countries; therefore, it is greater possibility to answer question more accurately is do selected research study based on those countries are actually having significant incease or decrease in happiness index, and making variables of factors that are occured recent social, economical, political, natural disaster and pandemic event in the countries. 
+ 
+ 
+Therefore, it may show the actual factors that could have a bigger impact on happiness index in countries besides stable factors in the happiness index. 
 
 
 # **Navigating Matteo's Notebook:**
