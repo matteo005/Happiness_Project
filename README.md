@@ -3,11 +3,11 @@
 # **Navigating Enkhsanaa's Notebook:** 
 
 ## Questions: 
-1. Does higher GDP(Gross Domestic Product) correlate to higher happiness index in countries?
+1. Does higher GDP (Gross Domestic Product) correlate to higher happiness index in countries?
 In order to answer this question following questions were asked and followed up accordingly.
-    1.a How to find out the relationships? (Develope hypothesis and test)
-    1.b Is there even relationship exist between these two variables? (do some tests against hypothesis)
-    1.c How to tackle problem and what approach should be taken? ( Explore with data, do calculation with associated visualization to answer questions based on data. Finally, show the result of such a relation relation exist or not exist between GDP and Happiness index)
+    #1.a) How to find out the relationships? (Develop hypothesis and test it using some statistical tests)
+    #1.b) Is there even relationship exist between these two variables? (do some tests against hypothesis)
+    #1.c) How to tackle problem and what approach should be taken? ( Explore with data, do calculation with associated visualization to answer questions based on data. Finally, show the result of such a relation relation exist or not exist between GDP and Happiness index)
 ## Data: 
 1. Collected data from: 
 Kaggle's World Happiness Report 2015-2021 - [Kaggle](https://www.kaggle.com/mathurinache/world-happiness-report-20152021)
