@@ -17,11 +17,16 @@ Kaggle's World Happiness Report 2015-2021 - [Kaggle](https://www.kaggle.com/math
        <img width="468" alt="Screenshot 2021-05-24 142007" src="https://user-images.githubusercontent.com/67448948/119392354-a2abfd80-bc9d-11eb-8f87-823329d37007.png">
        <img width="692" alt="Screenshot 2021-05-24 142714" src="https://user-images.githubusercontent.com/67448948/119392466-c96a3400-bc9d-11eb-920b-643385759f46.png">
 3. Develop Ho (null hypothesis) and Ha (alternative hypothesis)
-      Ho: Higher GDP and Higher Happiness index do
+        
 4. Calculated data that is associated  with happiness index and GDP in different countries and regions to answer questions were asked.
-    Test hypothesis by using AOVA Test. 
+    Test hypothesis by using ANOVA Test. 
      ![image](https://user-images.githubusercontent.com/67448948/119391835-e05c5680-bc9c-11eb-9da4-f472e95e4d17.png)
-5. Final results of study. 
+5. determined p_value to test against null hypothesis. 
+5. Produced scatter plot for mean of happiness by each country,a nd linear regression analysis.
+
+6. Calculated pearson r value to define existence of relationship. 
+7. 
+8. Final results of study. 
 
 ## Tools: 
  - Git Bash
