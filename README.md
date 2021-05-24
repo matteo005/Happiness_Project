@@ -22,7 +22,7 @@ Kaggle's World Happiness Report 2015-2021 - [Kaggle](https://www.kaggle.com/math
     Test hypothesis by using ANOVA Test. 
      ![image](https://user-images.githubusercontent.com/67448948/119391835-e05c5680-bc9c-11eb-9da4-f472e95e4d17.png)
  determined p_value to test against null hypothesis. 
-6. Produced scatter plot for mean of happiness by each country,a nd linear regression analysis.
+6. Produced scatter plot for mean of happiness by each country and linear regression analysis.
 
 <img width="827" alt="Screenshot 2021-05-24 145010" src="https://user-images.githubusercontent.com/67448948/119393927-9a54c200-bc9f-11eb-8494-143d7e43d241.png">
 7. Calculated pearson r value to define existence of relationship. 
