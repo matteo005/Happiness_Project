@@ -13,7 +13,7 @@ In order to answer this question, the following questions were asked and followe
 1. Collected data from: 
 Kaggle's World Happiness Report 2015-2021 - [Kaggle](https://www.kaggle.com/mathurinache/world-happiness-report-20152021)
 2. Extracted data and cleaned for analysis.
-3. Created some visualization to understand and to grasp general picture about data by different variables, criteria, and time. 
+3. Created some visualization to understand and to grasp general picture about data by different variables and time. 
         <img width="437" alt="Screenshot 2021-05-24 135358" src="https://user-images.githubusercontent.com/67448948/119387939-a3da2c00-bc97-11eb-9fc9-a861ce5ae4dc.png"> 
        <img width="468" alt="Screenshot 2021-05-24 142007" src="https://user-images.githubusercontent.com/67448948/119392354-a2abfd80-bc9d-11eb-8f87-823329d37007.png">
        <img width="692" alt="Screenshot 2021-05-24 142714" src="https://user-images.githubusercontent.com/67448948/119392466-c96a3400-bc9d-11eb-920b-643385759f46.png">
@@ -37,7 +37,7 @@ Kaggle's World Happiness Report 2015-2021 - [Kaggle](https://www.kaggle.com/math
     Relation exist positively and weakly. 
     Also, linear regression slope is: 
         0 < (m = 0.02) << 1
-    This shows that positive and very weak reltion exists between GDP and happiness index. 
+    This shows that positive and very weak relation exists between GDP and Happiness index. 
 8. Final results of study. 
  Weak and postitive relation exists between these two variables, and this claim is supported by p_value of ANOVA test result, pearson r value, and slope of linear regression. 
     
@@ -52,7 +52,7 @@ Kaggle's World Happiness Report 2015-2021 - [Kaggle](https://www.kaggle.com/math
  - Numpy
  
 ## General Conclusions 
-Original intuitive assumption was that Higher GDP will have a higher impact on Higher Happiness index in countries. However, the study results shows that relationship between these two variables are suprrisingly weak. Final conclusion is GDP correaltes to Happiness index positively and weakly (insignifacant yet cannot say it does not exist). 
+Original intiutive assumption was that Higher GDP will have higher impact on Higher Happiness index in countries. However, the study results shows that relationship between these two variables are suprrisingly weak. Final conclusion is GDP correlates to Happiness index positively and weakly (relation is insignificant, yet cannot say nonexistence). 
 
 # **Navigating Matteo's Notebook:**
 
