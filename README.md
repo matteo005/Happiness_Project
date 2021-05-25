@@ -143,6 +143,9 @@ Kaggle's World Happiness Report 2015-2021 - [Kaggle](https://www.kaggle.com/math
 
 Scatterplots of Freedom vs Happiness were graphed over the years of 2015-2021. Results were as followed:
 
+![image](https://user-images.githubusercontent.com/81594303/119500000-50b6b680-bd35-11eb-827c-7e9b89636198.png)
+
+
 Freedom vs happiness 2015
 Line regression value y = 0.07x+ 0.06
 T Test value 1.49e-91
