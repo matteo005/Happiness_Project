@@ -132,15 +132,44 @@ I also did further analysis in the relationship between corruption and freedom, 
 ## Questions:
 Do countries who have more freedom live happier lives?
 
+## Hypothesis
+Null hypothesis: Happiness has no correlation to freedom of people within different countries from 2015-2016
+Alternative hypothesis: an increase of people’s freedom has a positive impact to their happiness within different countries from 2015-2021. 
 
 ## Data: 
 
 1. Data Collection Source: 
 Kaggle's World Happiness Report 2015-2021 - [Kaggle](https://www.kaggle.com/mathurinache/world-happiness-report-20152021)
 
-Examples of Visual Representations of Happiness vs freedom for year 2015 
+Scatterplots of Freedom vs Happiness were graphed over the years of 2015-2021. Results were as followed:
 
+Freedom vs happiness 2015
+Line regression value y = 0.07x+ 0.06
+T Test value 1.49e-91
 
+Freedom vs happiness 2016
+Line regression value y= 0.06x+0.03
+T Test value 1.49e-91
+
+Freedom vs happiness 2017
+Line regression value y= 0.07x+0.04
+T Test value 1.49e-91
+
+Freedom vs happiness 2018
+Line regression value y= 0.07x+ 0.06
+T Test value 1.49e-91
+
+Freedom vs happiness 2019
+Line regression value y= 0.07x+0.02
+T Test value 1.49 e-91
+
+Freedom vs happiness 2020
+Line regression value y= 0.06x+0.45
+T Test value 9.25e-94
+
+Freedom vs happiness 2021
+Line regression value y= 0.06x+0.44
+T Test value 9.25e-94
 
 ## Tools: 
 Pandas
@@ -148,6 +177,10 @@ Numpy
 Matpotlib
 Scipy
 
-
-
 ## General Conclusions
+
+All scatter plot graphs shows a positive slope with an average of 0.066 and with an average y-int of 0.16.  Since the average P-value of 1.07e-91  was smaller than .05, it is concluded that there is no significant relationship between freedom and happiness.
+
+The hypothesis was stated: An increase of people’s freedom has a positive impact to their happiness within different countries from 2015-2021 could not be supported. After veiwing the results, there is no supporting evidence to prove the correlation hypothesis. 
+
+The only significant findings of the data and visualizations presented were the higher y-intercept values from the scatterplots of years 2020 and 2021. While the average y-intcept values of graphs dating 2015-2019 were ((0.06+ 0.03+ 0.04+ 0.06, 0.02)/5 = 0.04, the average values of graphs 2020 and 2021 yeileded an average y-intercept value of 0.45. there was a 10-fold increase in average freedom values from 2020 and 2021. This could be due to global changes such as the 2019 pandemic. Even though the freedom rating went up, there wasnt much of a shift in happiness values. 
