@@ -143,9 +143,11 @@ Kaggle's World Happiness Report 2015-2021 - [Kaggle](https://www.kaggle.com/math
 
 Scatterplots of Freedom vs Happiness were graphed over the years of 2015-2021. Results were as followed:
 
+The image below repsents ratings of freedom vs ratings of happiness within different countries for the year 2015. As we can see, there is a positive slope value, but a value close to 0. This shows that there isnt much correlation as freedom increases, since happiness doesnt increase at the same rate. 
 
 ![image](https://user-images.githubusercontent.com/81594303/119504154-b5741000-bd39-11eb-9f2f-2f33681f8328.png)
 
+The values below represent the slope equations of graphs ranging from years 2015-2021 when freedom values vs happiness values were plotted. Also, a t-test was performed to look for relationships between the two variables. Overall, the t-test values all were deemed insignificant since they all yeilded vlaues smaller than 0.05. Typically values that are below 0.05 represent an insigificant relationship  between each other. 
 
 Freedom vs happiness 2015
 Line regression value y = 0.07x+ 0.06
@@ -177,6 +179,8 @@ T Test value 9.25e-94
 
 
 ![image](https://user-images.githubusercontent.com/81594303/119504455-fb30d880-bd39-11eb-9c9b-cc9f6c02c559.png)
+
+The image above repsents ratings of freedom vs ratings of happiness within different countries for the year 2021. As we can see, there is a positive slope value, but a value close to 0. This shows that there isnt much correlation as freedom increases, since happiness doesnt increase at the same rate. What is signicant with this graph (along with the 2020 year graph) is that the y-intercept is much higher than the previous years. This shows that freedom values recevied higher ratings for years 2020 and 2021. Happiness values still remained unchanged due to this spike in freedom values. 
 
 
 ## Tools: 
