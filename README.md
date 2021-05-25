@@ -92,6 +92,7 @@ We can visually see by the line graph that there are certain regions in the worl
 # **Navigating Samson's Notebook:** 
 
 ## Questions: Are countries under more corruption less happy?
+Is there any correlation between corruption and other factors? (GDP, Freedom, Generosity)
 
 
 ## Data: 
