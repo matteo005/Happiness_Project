@@ -129,13 +129,25 @@ I also did further analysis in the relationship between corruption and freedom, 
 
 # **Navigating Andy's Notebook:** 
 
-## Questions: 
+## Questions:
+Do countries who have more freedom live happier lives?
 
 
 ## Data: 
 
+1. Data Collection Source: 
+Kaggle's World Happiness Report 2015-2021 - [Kaggle](https://www.kaggle.com/mathurinache/world-happiness-report-20152021)
+
+Examples of Visual Representations of Happiness vs freedom for year 2015 
+
+
 
 ## Tools: 
+Pandas
+Numpy
+Matpotlib
+Scipy
+
 
 
 ## General Conclusions
